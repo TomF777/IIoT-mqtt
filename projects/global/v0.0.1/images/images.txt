@@ -1,4 +1,0 @@
-grafana_9_2_4
-influxdb_2_2_0
-mosquitto_2_0_15
-portainer_2_18_3
