@@ -1,0 +1,83 @@
+version: "3.9"
+services:
+
+
+# ===== INFLUXDB ======
+ global-influxdb:
+       container_name: Global_InfluxDB
+       image: influxdb:2.2.0
+       ports:
+              - 8086:8086 
+       restart: always
+       volumes:
+              - "/etc/timezone:/etc/timezone:ro"
+              - "/etc/localtime:/etc/localtime:ro"
+              - "/Apps/Global/Influx/config:/etc/influxdb2"
+              - "/Apps/Global/Influx/data:/var/lib/influxdb2"
+       labels:
+              3M.container.project: "PLWRO_OI"
+       networks:
+              - InfluxDB
+
+
+# ===== GRAFANA ======
+ global-grafana:
+       container_name: Global_Grafna
+       image:  grafana/grafana:9.2.4
+       ports:
+              - 3000:3000 
+       restart: always
+       volumes:
+              - "/Apps/Global/Grafana/etc/grafana:/etc/grafana"
+              - "/Apps/Global/Grafana/var/log:/var/log/grafana"
+              - "/etc/timezone:/etc/timezone:ro"
+              - "/etc/localtime:/etc/localtime:ro"
+       labels:
+              3M.container.project: "PLWRO_OI"
+       networks:
+              - Grafana
+
+#==== MQTT ====
+ global-mqtt:
+       container_name: Global_Mqtt
+       image:  eclipse-mosquitto:2.0.15
+       ports:
+              - 1883:1883
+              - 9001:9001
+       restart: always
+       volumes:
+              - "/Apps/Global/Mqtt/config:/mosquitto/config" 
+              - "/Apps/Global/Mqtt/data:/mosquitto/data" 
+              - "/Apps/Global/Mqtt/log:/mosquitto/log"
+              - "/etc/timezone:/etc/timezone:ro"
+              - "/etc/localtime:/etc/localtime:ro"
+       labels:
+              3M.container.project: "PLWRO_OI"
+       networks:
+              - Mqtt
+
+
+#==== Portainer ====
+ global-portaine:
+       container_name: Global_Portainer
+       image:  portainer/portainer-ce:2.17.1
+       restart: always
+       ports:
+              - 9443:9443
+              - 8000:8000
+       volumes:
+              - "/var/run/docker.sock:/var/run/docker.sock" 
+              - "/Apps/Global/Portainer/data:/data" 
+              - "/etc/timezone:/etc/timezone:ro"
+              - "/etc/localtime:/etc/localtime:ro"
+       labels:
+              3M.container.project: "PLWRO_OI"
+
+volumes:
+       portainer_data:
+
+networks:
+       InfluxDB:
+       Mqtt:
+       Grafana:
+
