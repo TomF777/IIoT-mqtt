@@ -1,0 +1,17 @@
+# create virt env fro the project:
+python -m venv myvenv
+
+#if needed install venv for proper Python version:
+sudo apt install python3.12-venv
+
+# activate the virt. env (Windows):
+source myvenv/Scripts/activate
+
+# Linux:
+source venv/bin/activate
+
+# install packages into the virt env:
+(venv) python -m pip install <package-name>
+#or
+#install requirements.txt
+pip install -r requirements.txt
