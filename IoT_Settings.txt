@@ -1,4 +1,4 @@
-influxdb:			 influxdb    IoT-influxdb		organization: priv	  
+influxdb:			 influxdb    IoT-influxdb		organization: IIoT	  
 
 grafana:            admin        admin
 

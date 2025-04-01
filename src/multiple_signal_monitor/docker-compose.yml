@@ -1,11 +1,11 @@
 version: "3.9"
 services:
           
-# ===== Vibration monitoring ====
+# ===== Generic multiple sensor monitor ====
 
- vib-monitor:
-       container_name: VibMonitor01
-       image: vib_monitor_img:0.0.1
+ generic-multiple-sensors:
+       container_name: Sensors
+       image: generic_multiple_signal_monitor_img:0.0.1
        restart: always
        #volumes:
               #- "/etc/timezone:/etc/timezone:ro"
@@ -24,11 +24,9 @@ services:
               INFLUX_FLUSH_INTERVAL: ${INFLUX_FLUSH_INTERVAL}
               INFLUX_JITTER_INTERVAL: ${INFLUX_JITTER_INTERVAL}
               INFLUX_PROCESS_DB: ${INFLUX_PROCESS_DB}
-              MODEL_WINDOW_SIZE: ${MODEL_WINDOW_SIZE}
-              ANOMALY_LIST_SIZE: ${ANOMALY_LIST_SIZE}
+
               LINE_NAME: ${LINE_NAME}
-              MACHINE_NAME: "MACHINE_NAME"                              #Warrning ! Must be hard coded    
-              SENSOR_NAME: "SENSOR_NAME"                                #Warrning ! Must be hard coded              
+              MACHINE_NAME: "device01"                              #Warrning ! Must be hard coded                
        labels:
               IoT.container.project: "IoT_Industrial"
               

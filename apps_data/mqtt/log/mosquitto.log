@@ -10453,3 +10453,1232 @@
 1743525253: New client connected from 192.168.1.120:14218 as mqtt-explorer-612c0fef (p2, c1, k60, u'mqttbroker').
 1743525460: mosquitto version 2.0.15 terminating
 1743525460: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743525562: mosquitto version 2.0.15 starting
+1743525562: Config loaded from /mosquitto/config/mosquitto.conf.
+1743525562: Opening ipv4 listen socket on port 1883.
+1743525562: Opening ipv6 listen socket on port 1883.
+1743525562: Opening websockets listen socket on port 9001.
+1743525562: mosquitto version 2.0.15 running
+1743525564: New connection from 192.168.1.120:14405 on port 1883.
+1743525564: New client connected from 192.168.1.120:14405 as mqtt-explorer-612c0fef (p2, c1, k60, u'mqttbroker').
+1743527210: New connection from 172.19.0.12:54315 on port 1883.
+1743527210: New client connected from 172.19.0.12:54315 as auto-CB2DE564-FF75-BC4B-7990-A1BE1DBDA356 (p5, c1, k60, u'mqttbroker').
+1743527210: New connection from 172.19.0.10:41805 on port 1883.
+1743527210: New client connected from 172.19.0.10:41805 as auto-AF964D44-590E-4319-5AAB-69D598FD1E9A (p5, c1, k60, u'mqttbroker').
+1743527211: New connection from 172.19.0.11:40991 on port 1883.
+1743527211: New client connected from 172.19.0.11:40991 as auto-B22B7EEE-CA13-3066-0618-A84C553143F3 (p5, c1, k60, u'mqttbroker').
+1743527212: New connection from 172.19.0.13:52793 on port 1883.
+1743527212: New client connected from 172.19.0.13:52793 as auto-6379F9E8-267A-B23B-2EB4-1EE3D1E43045 (p5, c1, k60, u'mqttbroker').
+1743527214: New connection from 172.19.0.15:40813 on port 1883.
+1743527214: New client connected from 172.19.0.15:40813 as auto-2CB3BA8B-47CD-16F1-3656-47CF685DBA15 (p5, c1, k60, u'mqttbroker').
+1743527214: New connection from 172.19.0.14:52067 on port 1883.
+1743527214: New client connected from 172.19.0.14:52067 as auto-D236981D-2611-1E67-DB7B-B7FB45AE58EC (p5, c1, k60, u'mqttbroker').
+1743527215: New connection from 172.19.0.16:54569 on port 1883.
+1743527215: New client connected from 172.19.0.16:54569 as auto-17DBDEA4-B32C-BF83-EBF3-F19735A78DD8 (p5, c1, k60, u'mqttbroker').
+1743527215: New connection from 172.19.0.17:45777 on port 1883.
+1743527215: New client connected from 172.19.0.17:45777 as auto-15B84F55-1FBC-339E-0673-237A84318427 (p5, c1, k60, u'mqttbroker').
+1743527216: New connection from 172.19.0.18:40589 on port 1883.
+1743527216: New client connected from 172.19.0.18:40589 as auto-B426D607-9BF5-A646-487C-8751F6EBA257 (p5, c1, k60, u'mqttbroker').
+1743527216: New connection from 172.19.0.19:50987 on port 1883.
+1743527216: New client connected from 172.19.0.19:50987 as auto-8E4157B1-CE2D-7F0D-C210-8D2F1ECDBACF (p5, c1, k60, u'mqttbroker').
+1743527217: New connection from 172.19.0.22:42465 on port 1883.
+1743527217: New client connected from 172.19.0.22:42465 as auto-CC7C9E1A-3708-7E45-F118-D8E491FEBC2D (p5, c1, k60, u'mqttbroker').
+1743527217: New connection from 172.19.0.20:49565 on port 1883.
+1743527217: New client connected from 172.19.0.20:49565 as auto-9FEC0774-A60D-5C2C-C4A5-689F20E32597 (p5, c1, k60, u'mqttbroker').
+1743527324: New connection from 192.168.1.70:50535 on port 1883.
+1743527324: New connection from 192.168.1.70:50536 on port 1883.
+1743527324: New connection from 192.168.1.70:50537 on port 1883.
+1743527324: New connection from 192.168.1.70:50538 on port 1883.
+1743527324: New connection from 192.168.1.70:50539 on port 1883.
+1743527324: New connection from 192.168.1.70:50540 on port 1883.
+1743527324: New connection from 192.168.1.70:50541 on port 1883.
+1743527324: New connection from 192.168.1.70:50542 on port 1883.
+1743527324: New connection from 192.168.1.70:50543 on port 1883.
+1743527324: New connection from 192.168.1.70:50544 on port 1883.
+1743527324: New connection from 192.168.1.70:50545 on port 1883.
+1743527324: New connection from 192.168.1.70:50546 on port 1883.
+1743527324: New connection from 192.168.1.70:50547 on port 1883.
+1743527324: New connection from 192.168.1.70:50548 on port 1883.
+1743527324: New connection from 192.168.1.70:50549 on port 1883.
+1743527324: New connection from 192.168.1.70:50550 on port 1883.
+1743527324: New connection from 192.168.1.70:50551 on port 1883.
+1743527324: New client connected from 192.168.1.70:50550 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50549 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50548 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50547 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50546 as IoT_MQTT-TcMqttClient11 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50545 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50544 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50543 as IoT_MQTT-TcMqttClient25 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50542 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50541 as IoT_MQTT-TcMqttClient26 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50540 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50539 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50538 as IoT_MQTT-TcMqttClient17 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50537 as IoT_MQTT-TcMqttClient12 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50536 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50535 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50551 as IoT_MQTT-TcMqttClient27 (p2, c1, k60, u'mqttbroker').
+1743527324: New connection from 192.168.1.70:50552 on port 1883.
+1743527324: New connection from 192.168.1.70:50553 on port 1883.
+1743527324: New connection from 192.168.1.70:50554 on port 1883.
+1743527324: New connection from 192.168.1.70:50555 on port 1883.
+1743527324: New client connected from 192.168.1.70:50555 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50554 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50553 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743527324: New client connected from 192.168.1.70:50552 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743527325: New connection from 192.168.1.70:50530 on port 1883.
+1743527325: New connection from 192.168.1.70:50532 on port 1883.
+1743527325: New client connected from 192.168.1.70:50532 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743527325: New client connected from 192.168.1.70:50530 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743527325: New connection from 192.168.1.70:50531 on port 1883.
+1743527325: New connection from 192.168.1.70:50533 on port 1883.
+1743527325: New connection from 192.168.1.70:50534 on port 1883.
+1743527325: New client connected from 192.168.1.70:50534 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743527325: New client connected from 192.168.1.70:50533 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743527325: New client connected from 192.168.1.70:50531 as IoT_MQTT-TcMqttClient18 (p2, c1, k60, u'mqttbroker').
+1743527329: New connection from 192.168.1.70:50558 on port 1883.
+1743527329: New connection from 192.168.1.70:50557 on port 1883.
+1743527329: New connection from 192.168.1.70:50559 on port 1883.
+1743527329: New client connected from 192.168.1.70:50557 as IoT_MQTT-TcMqttClient36 (p2, c1, k60, u'mqttbroker').
+1743527329: New client connected from 192.168.1.70:50558 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743527329: New client connected from 192.168.1.70:50559 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743527363: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743527406: Outgoing messages are being dropped for client auto-9FEC0774-A60D-5C2C-C4A5-689F20E32597.
+1743528282: Client IoT_MQTT-TcMqttClient36 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient26 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient27 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient25 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient17 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient18 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient11 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient12 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743528282: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743528283: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743528283: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743528283: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743528290: New connection from 192.168.1.70:50576 on port 1883.
+1743528290: New connection from 192.168.1.70:50577 on port 1883.
+1743528290: New connection from 192.168.1.70:50578 on port 1883.
+1743528290: New connection from 192.168.1.70:50579 on port 1883.
+1743528290: New connection from 192.168.1.70:50580 on port 1883.
+1743528290: New connection from 192.168.1.70:50581 on port 1883.
+1743528290: New connection from 192.168.1.70:50582 on port 1883.
+1743528290: New connection from 192.168.1.70:50583 on port 1883.
+1743528290: New connection from 192.168.1.70:50584 on port 1883.
+1743528290: New connection from 192.168.1.70:50585 on port 1883.
+1743528290: New connection from 192.168.1.70:50586 on port 1883.
+1743528290: New connection from 192.168.1.70:50587 on port 1883.
+1743528290: New connection from 192.168.1.70:50588 on port 1883.
+1743528290: New connection from 192.168.1.70:50589 on port 1883.
+1743528290: New connection from 192.168.1.70:50590 on port 1883.
+1743528290: New connection from 192.168.1.70:50591 on port 1883.
+1743528290: New connection from 192.168.1.70:50592 on port 1883.
+1743528290: New connection from 192.168.1.70:50593 on port 1883.
+1743528290: New connection from 192.168.1.70:50594 on port 1883.
+1743528290: New connection from 192.168.1.70:50595 on port 1883.
+1743528290: New connection from 192.168.1.70:50596 on port 1883.
+1743528290: New connection from 192.168.1.70:50597 on port 1883.
+1743528290: New client connected from 192.168.1.70:50597 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50596 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50595 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50594 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50593 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50592 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50591 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50590 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50589 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50588 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50587 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50586 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50585 as IoT_MQTT-TcMqttClient21 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50584 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50583 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50582 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50581 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50580 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50579 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50578 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50577 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50576 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743528290: New connection from 192.168.1.70:50598 on port 1883.
+1743528290: New connection from 192.168.1.70:50599 on port 1883.
+1743528290: New connection from 192.168.1.70:50600 on port 1883.
+1743528290: New connection from 192.168.1.70:50601 on port 1883.
+1743528290: New client connected from 192.168.1.70:50601 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50600 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50599 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743528290: New client connected from 192.168.1.70:50598 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743528295: New connection from 192.168.1.70:50603 on port 1883.
+1743528295: New connection from 192.168.1.70:50602 on port 1883.
+1743528295: New connection from 192.168.1.70:50604 on port 1883.
+1743528295: New client connected from 192.168.1.70:50603 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743528295: New client connected from 192.168.1.70:50604 as IoT_MQTT-TcMqttClient36 (p2, c1, k60, u'mqttbroker').
+1743528295: New client connected from 192.168.1.70:50602 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743528528: Client IoT_MQTT-TcMqttClient36 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient21 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743528528: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743528540: New connection from 192.168.1.70:50609 on port 1883.
+1743528540: New connection from 192.168.1.70:50610 on port 1883.
+1743528540: New connection from 192.168.1.70:50611 on port 1883.
+1743528540: New connection from 192.168.1.70:50612 on port 1883.
+1743528540: New connection from 192.168.1.70:50613 on port 1883.
+1743528540: New connection from 192.168.1.70:50614 on port 1883.
+1743528540: New connection from 192.168.1.70:50615 on port 1883.
+1743528540: New connection from 192.168.1.70:50616 on port 1883.
+1743528540: New connection from 192.168.1.70:50617 on port 1883.
+1743528540: New connection from 192.168.1.70:50618 on port 1883.
+1743528540: New connection from 192.168.1.70:50619 on port 1883.
+1743528540: New connection from 192.168.1.70:50620 on port 1883.
+1743528540: New connection from 192.168.1.70:50621 on port 1883.
+1743528540: New connection from 192.168.1.70:50622 on port 1883.
+1743528540: New connection from 192.168.1.70:50623 on port 1883.
+1743528540: New connection from 192.168.1.70:50624 on port 1883.
+1743528540: New connection from 192.168.1.70:50625 on port 1883.
+1743528540: New connection from 192.168.1.70:50626 on port 1883.
+1743528540: New connection from 192.168.1.70:50627 on port 1883.
+1743528540: New connection from 192.168.1.70:50628 on port 1883.
+1743528540: New client connected from 192.168.1.70:50612 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743528540: New connection from 192.168.1.70:50629 on port 1883.
+1743528540: New connection from 192.168.1.70:50630 on port 1883.
+1743528540: New client connected from 192.168.1.70:50616 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50620 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50618 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50622 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50628 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50614 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50613 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50611 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50610 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50609 as IoT_MQTT-TcMqttClient21 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50626 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50625 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50624 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50623 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50621 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50619 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50617 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50615 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50630 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50629 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50627 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743528540: New connection from 192.168.1.70:50631 on port 1883.
+1743528540: New connection from 192.168.1.70:50632 on port 1883.
+1743528540: New connection from 192.168.1.70:50633 on port 1883.
+1743528540: New connection from 192.168.1.70:50634 on port 1883.
+1743528540: New client connected from 192.168.1.70:50632 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50631 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50633 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743528540: New client connected from 192.168.1.70:50634 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743528545: New connection from 192.168.1.70:50635 on port 1883.
+1743528545: New connection from 192.168.1.70:50636 on port 1883.
+1743528545: New connection from 192.168.1.70:50637 on port 1883.
+1743528545: New client connected from 192.168.1.70:50635 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743528545: New client connected from 192.168.1.70:50637 as IoT_MQTT-TcMqttClient36 (p2, c1, k60, u'mqttbroker').
+1743528545: New client connected from 192.168.1.70:50636 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743528951: Client IoT_MQTT-TcMqttClient36 disconnected.
+1743528951: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient21 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743528952: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743528959: New connection from 192.168.1.70:50645 on port 1883.
+1743528959: New connection from 192.168.1.70:50646 on port 1883.
+1743528959: New connection from 192.168.1.70:50647 on port 1883.
+1743528959: New connection from 192.168.1.70:50648 on port 1883.
+1743528959: New connection from 192.168.1.70:50649 on port 1883.
+1743528959: New connection from 192.168.1.70:50650 on port 1883.
+1743528959: New connection from 192.168.1.70:50651 on port 1883.
+1743528959: New connection from 192.168.1.70:50652 on port 1883.
+1743528959: New connection from 192.168.1.70:50653 on port 1883.
+1743528959: New connection from 192.168.1.70:50654 on port 1883.
+1743528959: New connection from 192.168.1.70:50655 on port 1883.
+1743528959: New connection from 192.168.1.70:50656 on port 1883.
+1743528959: New connection from 192.168.1.70:50657 on port 1883.
+1743528959: New connection from 192.168.1.70:50658 on port 1883.
+1743528959: New connection from 192.168.1.70:50659 on port 1883.
+1743528959: New connection from 192.168.1.70:50660 on port 1883.
+1743528959: New connection from 192.168.1.70:50661 on port 1883.
+1743528959: New connection from 192.168.1.70:50662 on port 1883.
+1743528959: New connection from 192.168.1.70:50663 on port 1883.
+1743528959: New connection from 192.168.1.70:50664 on port 1883.
+1743528959: New connection from 192.168.1.70:50665 on port 1883.
+1743528959: New connection from 192.168.1.70:50666 on port 1883.
+1743528959: New connection from 192.168.1.70:50667 on port 1883.
+1743528959: New connection from 192.168.1.70:50668 on port 1883.
+1743528959: New connection from 192.168.1.70:50669 on port 1883.
+1743528959: New connection from 192.168.1.70:50670 on port 1883.
+1743528959: New client connected from 192.168.1.70:50670 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50669 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50668 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50667 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50666 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50665 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50664 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50663 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50662 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50661 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50660 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50659 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50658 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50657 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50656 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50655 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50654 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50653 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50652 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50651 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50650 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50649 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50648 as IoT_MQTT-TcMqttClient21 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50647 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50646 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743528959: New client connected from 192.168.1.70:50645 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743528964: New connection from 192.168.1.70:50671 on port 1883.
+1743528964: New connection from 192.168.1.70:50672 on port 1883.
+1743528964: New connection from 192.168.1.70:50673 on port 1883.
+1743528964: New client connected from 192.168.1.70:50673 as IoT_MQTT-TcMqttClient36 (p2, c1, k60, u'mqttbroker').
+1743528964: New client connected from 192.168.1.70:50672 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743528964: New client connected from 192.168.1.70:50671 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743529011: Client mqtt-explorer-612c0fef disconnected.
+1743529012: New connection from 192.168.1.120:16398 on port 1883.
+1743529012: New client connected from 192.168.1.120:16398 as mqtt-explorer-612c0fef (p2, c1, k60, u'mqttbroker').
+1743529164: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743529428: Client IoT_MQTT-TcMqttClient36 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient21 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743529428: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743529429: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743529436: New connection from 192.168.1.70:50680 on port 1883.
+1743529436: New connection from 192.168.1.70:50681 on port 1883.
+1743529436: New connection from 192.168.1.70:50682 on port 1883.
+1743529436: New connection from 192.168.1.70:50683 on port 1883.
+1743529436: New connection from 192.168.1.70:50684 on port 1883.
+1743529436: New connection from 192.168.1.70:50685 on port 1883.
+1743529436: New connection from 192.168.1.70:50686 on port 1883.
+1743529436: New connection from 192.168.1.70:50687 on port 1883.
+1743529436: New connection from 192.168.1.70:50688 on port 1883.
+1743529436: New connection from 192.168.1.70:50689 on port 1883.
+1743529436: New connection from 192.168.1.70:50690 on port 1883.
+1743529436: New connection from 192.168.1.70:50691 on port 1883.
+1743529436: New connection from 192.168.1.70:50692 on port 1883.
+1743529436: New connection from 192.168.1.70:50693 on port 1883.
+1743529436: New connection from 192.168.1.70:50694 on port 1883.
+1743529436: New connection from 192.168.1.70:50695 on port 1883.
+1743529436: New connection from 192.168.1.70:50696 on port 1883.
+1743529436: New connection from 192.168.1.70:50697 on port 1883.
+1743529436: New connection from 192.168.1.70:50698 on port 1883.
+1743529436: New connection from 192.168.1.70:50699 on port 1883.
+1743529436: New connection from 192.168.1.70:50700 on port 1883.
+1743529436: New connection from 192.168.1.70:50701 on port 1883.
+1743529436: New client connected from 192.168.1.70:50698 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50697 as IoT_MQTT-TcMqttClient21 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50696 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50695 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50694 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50693 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50692 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50691 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50690 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50689 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50688 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50687 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50686 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50685 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50684 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50683 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50682 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50681 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50680 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50701 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50700 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50699 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743529436: New connection from 192.168.1.70:50702 on port 1883.
+1743529436: New connection from 192.168.1.70:50703 on port 1883.
+1743529436: New connection from 192.168.1.70:50704 on port 1883.
+1743529436: New connection from 192.168.1.70:50705 on port 1883.
+1743529436: New client connected from 192.168.1.70:50705 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50704 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50703 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743529436: New client connected from 192.168.1.70:50702 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743529441: New connection from 192.168.1.70:50706 on port 1883.
+1743529441: New connection from 192.168.1.70:50708 on port 1883.
+1743529441: New connection from 192.168.1.70:50707 on port 1883.
+1743529441: New client connected from 192.168.1.70:50706 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743529441: New client connected from 192.168.1.70:50708 as IoT_MQTT-TcMqttClient36 (p2, c1, k60, u'mqttbroker').
+1743529441: New client connected from 192.168.1.70:50707 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743530612: Client IoT_MQTT-TcMqttClient36 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient21 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743530612: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743530621: New connection from 192.168.1.70:50721 on port 1883.
+1743530621: New connection from 192.168.1.70:50722 on port 1883.
+1743530621: New connection from 192.168.1.70:50723 on port 1883.
+1743530621: New connection from 192.168.1.70:50724 on port 1883.
+1743530621: New connection from 192.168.1.70:50725 on port 1883.
+1743530621: New connection from 192.168.1.70:50726 on port 1883.
+1743530621: New connection from 192.168.1.70:50727 on port 1883.
+1743530621: New connection from 192.168.1.70:50728 on port 1883.
+1743530621: New connection from 192.168.1.70:50729 on port 1883.
+1743530621: New connection from 192.168.1.70:50730 on port 1883.
+1743530621: New connection from 192.168.1.70:50731 on port 1883.
+1743530621: New connection from 192.168.1.70:50732 on port 1883.
+1743530621: New connection from 192.168.1.70:50733 on port 1883.
+1743530621: New connection from 192.168.1.70:50734 on port 1883.
+1743530621: New connection from 192.168.1.70:50735 on port 1883.
+1743530621: New connection from 192.168.1.70:50736 on port 1883.
+1743530621: New connection from 192.168.1.70:50737 on port 1883.
+1743530621: New connection from 192.168.1.70:50738 on port 1883.
+1743530621: New connection from 192.168.1.70:50739 on port 1883.
+1743530621: New connection from 192.168.1.70:50740 on port 1883.
+1743530621: New connection from 192.168.1.70:50741 on port 1883.
+1743530621: New connection from 192.168.1.70:50742 on port 1883.
+1743530621: New client connected from 192.168.1.70:50725 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50732 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50734 as IoT_MQTT-TcMqttClient21 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50737 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50723 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50722 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50721 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50724 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50742 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50741 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50740 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50739 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50738 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50736 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50735 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50733 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50731 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50730 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50729 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50728 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50727 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50726 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743530621: New connection from 192.168.1.70:50743 on port 1883.
+1743530621: New connection from 192.168.1.70:50744 on port 1883.
+1743530621: New connection from 192.168.1.70:50745 on port 1883.
+1743530621: New connection from 192.168.1.70:50746 on port 1883.
+1743530621: New client connected from 192.168.1.70:50746 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50745 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50744 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743530621: New client connected from 192.168.1.70:50743 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743530625: New connection from 192.168.1.70:50747 on port 1883.
+1743530625: New connection from 192.168.1.70:50748 on port 1883.
+1743530625: New connection from 192.168.1.70:50749 on port 1883.
+1743530625: New client connected from 192.168.1.70:50749 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743530625: New client connected from 192.168.1.70:50748 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743530625: New client connected from 192.168.1.70:50747 as IoT_MQTT-TcMqttClient36 (p2, c1, k60, u'mqttbroker').
+1743530965: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743532766: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743532922: Client IoT_MQTT-TcMqttClient36 disconnected.
+1743532922: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743532922: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743532922: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient21 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743532923: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743534567: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743535347: New connection from 192.168.1.70:50819 on port 1883.
+1743535347: New connection from 192.168.1.70:50820 on port 1883.
+1743535347: New connection from 192.168.1.70:50821 on port 1883.
+1743535347: New connection from 192.168.1.70:50822 on port 1883.
+1743535347: New connection from 192.168.1.70:50823 on port 1883.
+1743535347: New connection from 192.168.1.70:50824 on port 1883.
+1743535347: New connection from 192.168.1.70:50825 on port 1883.
+1743535347: New connection from 192.168.1.70:50826 on port 1883.
+1743535347: New connection from 192.168.1.70:50827 on port 1883.
+1743535347: New connection from 192.168.1.70:50828 on port 1883.
+1743535347: New connection from 192.168.1.70:50829 on port 1883.
+1743535347: New connection from 192.168.1.70:50830 on port 1883.
+1743535347: New connection from 192.168.1.70:50831 on port 1883.
+1743535347: New connection from 192.168.1.70:50832 on port 1883.
+1743535347: New connection from 192.168.1.70:50833 on port 1883.
+1743535347: New client connected from 192.168.1.70:50822 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50830 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743535347: New connection from 192.168.1.70:50834 on port 1883.
+1743535347: New connection from 192.168.1.70:50835 on port 1883.
+1743535347: New connection from 192.168.1.70:50836 on port 1883.
+1743535347: New connection from 192.168.1.70:50837 on port 1883.
+1743535347: New connection from 192.168.1.70:50838 on port 1883.
+1743535347: New client connected from 192.168.1.70:50821 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50820 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743535347: New connection from 192.168.1.70:50839 on port 1883.
+1743535347: New client connected from 192.168.1.70:50819 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50825 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50824 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50823 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50833 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50832 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50831 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50829 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50828 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50827 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50826 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50838 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50836 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50835 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50834 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50839 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50837 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743535347: New connection from 192.168.1.70:50840 on port 1883.
+1743535347: New connection from 192.168.1.70:50841 on port 1883.
+1743535347: New connection from 192.168.1.70:50842 on port 1883.
+1743535347: New client connected from 192.168.1.70:50841 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50840 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743535347: New client connected from 192.168.1.70:50842 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743535351: New connection from 192.168.1.70:50845 on port 1883.
+1743535351: New connection from 192.168.1.70:50844 on port 1883.
+1743535351: New connection from 192.168.1.70:50846 on port 1883.
+1743535351: New client connected from 192.168.1.70:50845 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743535351: New client connected from 192.168.1.70:50846 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743535351: New client connected from 192.168.1.70:50844 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743536368: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743537636: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743537636: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743537637: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743537645: New connection from 192.168.1.70:50886 on port 1883.
+1743537645: New connection from 192.168.1.70:50887 on port 1883.
+1743537645: New connection from 192.168.1.70:50888 on port 1883.
+1743537645: New connection from 192.168.1.70:50889 on port 1883.
+1743537645: New connection from 192.168.1.70:50890 on port 1883.
+1743537645: New connection from 192.168.1.70:50891 on port 1883.
+1743537645: New connection from 192.168.1.70:50892 on port 1883.
+1743537645: New connection from 192.168.1.70:50893 on port 1883.
+1743537645: New connection from 192.168.1.70:50894 on port 1883.
+1743537645: New connection from 192.168.1.70:50895 on port 1883.
+1743537645: New connection from 192.168.1.70:50896 on port 1883.
+1743537645: New connection from 192.168.1.70:50897 on port 1883.
+1743537645: New connection from 192.168.1.70:50898 on port 1883.
+1743537645: New connection from 192.168.1.70:50899 on port 1883.
+1743537645: New connection from 192.168.1.70:50900 on port 1883.
+1743537645: New connection from 192.168.1.70:50901 on port 1883.
+1743537645: New connection from 192.168.1.70:50902 on port 1883.
+1743537645: New connection from 192.168.1.70:50903 on port 1883.
+1743537645: New connection from 192.168.1.70:50904 on port 1883.
+1743537645: New connection from 192.168.1.70:50905 on port 1883.
+1743537645: New connection from 192.168.1.70:50906 on port 1883.
+1743537645: New client connected from 192.168.1.70:50904 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50903 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50902 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50901 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50900 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50899 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50898 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50897 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50896 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50895 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50894 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50893 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50892 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743537645: New connection from 192.168.1.70:50907 on port 1883.
+1743537645: New connection from 192.168.1.70:50908 on port 1883.
+1743537645: New connection from 192.168.1.70:50909 on port 1883.
+1743537645: New client connected from 192.168.1.70:50891 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50890 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50889 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50888 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50887 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50886 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50906 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50905 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50908 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50907 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743537645: New client connected from 192.168.1.70:50909 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743537650: New connection from 192.168.1.70:50910 on port 1883.
+1743537650: New connection from 192.168.1.70:50911 on port 1883.
+1743537650: New connection from 192.168.1.70:50912 on port 1883.
+1743537650: New client connected from 192.168.1.70:50910 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743537650: New client connected from 192.168.1.70:50912 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743537650: New client connected from 192.168.1.70:50911 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743538169: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743538372: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743538372: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743538380: New connection from 192.168.1.70:50922 on port 1883.
+1743538380: New connection from 192.168.1.70:50923 on port 1883.
+1743538380: New connection from 192.168.1.70:50924 on port 1883.
+1743538380: New connection from 192.168.1.70:50925 on port 1883.
+1743538380: New connection from 192.168.1.70:50926 on port 1883.
+1743538380: New connection from 192.168.1.70:50927 on port 1883.
+1743538380: New connection from 192.168.1.70:50928 on port 1883.
+1743538380: New connection from 192.168.1.70:50929 on port 1883.
+1743538380: New connection from 192.168.1.70:50930 on port 1883.
+1743538380: New connection from 192.168.1.70:50931 on port 1883.
+1743538380: New connection from 192.168.1.70:50932 on port 1883.
+1743538380: New connection from 192.168.1.70:50933 on port 1883.
+1743538380: New connection from 192.168.1.70:50934 on port 1883.
+1743538380: New connection from 192.168.1.70:50935 on port 1883.
+1743538380: New connection from 192.168.1.70:50936 on port 1883.
+1743538380: New connection from 192.168.1.70:50937 on port 1883.
+1743538380: New connection from 192.168.1.70:50938 on port 1883.
+1743538380: New connection from 192.168.1.70:50939 on port 1883.
+1743538380: New connection from 192.168.1.70:50940 on port 1883.
+1743538380: New connection from 192.168.1.70:50941 on port 1883.
+1743538380: New client connected from 192.168.1.70:50924 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50926 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743538380: New connection from 192.168.1.70:50942 on port 1883.
+1743538380: New client connected from 192.168.1.70:50930 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50933 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50936 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50939 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50931 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50929 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50928 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50927 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50925 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50923 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50922 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50941 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50940 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50938 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50937 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50935 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50934 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50932 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50942 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743538380: New connection from 192.168.1.70:50943 on port 1883.
+1743538380: New connection from 192.168.1.70:50944 on port 1883.
+1743538380: New connection from 192.168.1.70:50945 on port 1883.
+1743538380: New client connected from 192.168.1.70:50943 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50945 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743538380: New client connected from 192.168.1.70:50944 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743538384: New connection from 192.168.1.70:50946 on port 1883.
+1743538384: New connection from 192.168.1.70:50947 on port 1883.
+1743538384: New connection from 192.168.1.70:50948 on port 1883.
+1743538384: New client connected from 192.168.1.70:50946 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743538384: New client connected from 192.168.1.70:50948 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743538384: New client connected from 192.168.1.70:50947 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743538474: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743538474: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743538475: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743538475: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743538475: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743538475: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743538475: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743538475: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743538483: New connection from 192.168.1.70:50951 on port 1883.
+1743538483: New connection from 192.168.1.70:50952 on port 1883.
+1743538483: New connection from 192.168.1.70:50953 on port 1883.
+1743538483: New connection from 192.168.1.70:50954 on port 1883.
+1743538483: New connection from 192.168.1.70:50955 on port 1883.
+1743538483: New connection from 192.168.1.70:50956 on port 1883.
+1743538483: New connection from 192.168.1.70:50957 on port 1883.
+1743538483: New connection from 192.168.1.70:50958 on port 1883.
+1743538483: New connection from 192.168.1.70:50959 on port 1883.
+1743538483: New connection from 192.168.1.70:50960 on port 1883.
+1743538483: New connection from 192.168.1.70:50961 on port 1883.
+1743538483: New connection from 192.168.1.70:50962 on port 1883.
+1743538483: New connection from 192.168.1.70:50963 on port 1883.
+1743538483: New connection from 192.168.1.70:50964 on port 1883.
+1743538483: New connection from 192.168.1.70:50965 on port 1883.
+1743538483: New connection from 192.168.1.70:50966 on port 1883.
+1743538483: New connection from 192.168.1.70:50967 on port 1883.
+1743538483: New connection from 192.168.1.70:50968 on port 1883.
+1743538483: New connection from 192.168.1.70:50969 on port 1883.
+1743538483: New connection from 192.168.1.70:50970 on port 1883.
+1743538483: New connection from 192.168.1.70:50971 on port 1883.
+1743538483: New client connected from 192.168.1.70:50964 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50961 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50960 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50959 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50958 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50957 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743538483: New connection from 192.168.1.70:50972 on port 1883.
+1743538483: New connection from 192.168.1.70:50973 on port 1883.
+1743538483: New connection from 192.168.1.70:50974 on port 1883.
+1743538483: New client connected from 192.168.1.70:50956 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50955 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50954 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50953 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50952 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50951 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50971 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50970 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50969 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50968 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50967 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50966 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50965 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50963 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50962 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50974 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50973 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743538483: New client connected from 192.168.1.70:50972 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743538488: New connection from 192.168.1.70:50976 on port 1883.
+1743538488: New connection from 192.168.1.70:50975 on port 1883.
+1743538488: New connection from 192.168.1.70:50977 on port 1883.
+1743538488: New client connected from 192.168.1.70:50976 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743538488: New client connected from 192.168.1.70:50975 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743538488: New client connected from 192.168.1.70:50977 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743538616: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743538616: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743538624: New connection from 192.168.1.70:50978 on port 1883.
+1743538624: New connection from 192.168.1.70:50979 on port 1883.
+1743538624: New connection from 192.168.1.70:50980 on port 1883.
+1743538624: New connection from 192.168.1.70:50981 on port 1883.
+1743538624: New connection from 192.168.1.70:50982 on port 1883.
+1743538624: New connection from 192.168.1.70:50983 on port 1883.
+1743538624: New connection from 192.168.1.70:50984 on port 1883.
+1743538624: New connection from 192.168.1.70:50985 on port 1883.
+1743538624: New connection from 192.168.1.70:50986 on port 1883.
+1743538624: New connection from 192.168.1.70:50987 on port 1883.
+1743538624: New connection from 192.168.1.70:50988 on port 1883.
+1743538624: New connection from 192.168.1.70:50989 on port 1883.
+1743538624: New connection from 192.168.1.70:50990 on port 1883.
+1743538624: New connection from 192.168.1.70:50991 on port 1883.
+1743538624: New connection from 192.168.1.70:50992 on port 1883.
+1743538624: New connection from 192.168.1.70:50993 on port 1883.
+1743538624: New connection from 192.168.1.70:50994 on port 1883.
+1743538624: New connection from 192.168.1.70:50995 on port 1883.
+1743538624: New connection from 192.168.1.70:50996 on port 1883.
+1743538624: New connection from 192.168.1.70:50997 on port 1883.
+1743538624: New connection from 192.168.1.70:50998 on port 1883.
+1743538624: New client connected from 192.168.1.70:50998 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50997 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50996 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50995 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50994 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50993 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50992 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50991 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50990 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50989 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50988 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50987 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50986 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50985 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50984 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50983 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50982 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50981 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50980 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50979 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50978 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743538624: New connection from 192.168.1.70:50999 on port 1883.
+1743538624: New connection from 192.168.1.70:51000 on port 1883.
+1743538624: New connection from 192.168.1.70:51001 on port 1883.
+1743538624: New client connected from 192.168.1.70:51001 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:50999 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743538624: New client connected from 192.168.1.70:51000 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743538628: New connection from 192.168.1.70:51003 on port 1883.
+1743538628: New connection from 192.168.1.70:51002 on port 1883.
+1743538628: New connection from 192.168.1.70:51004 on port 1883.
+1743538628: New client connected from 192.168.1.70:51002 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743538628: New client connected from 192.168.1.70:51004 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743538628: New client connected from 192.168.1.70:51003 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743539513: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743539513: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743539513: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743539513: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743539513: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743539513: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743539513: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743539513: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743539513: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743539513: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743539514: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743539521: New connection from 192.168.1.70:51013 on port 1883.
+1743539521: New connection from 192.168.1.70:51014 on port 1883.
+1743539521: New connection from 192.168.1.70:51015 on port 1883.
+1743539521: New connection from 192.168.1.70:51016 on port 1883.
+1743539521: New connection from 192.168.1.70:51017 on port 1883.
+1743539521: New connection from 192.168.1.70:51018 on port 1883.
+1743539521: New connection from 192.168.1.70:51019 on port 1883.
+1743539521: New connection from 192.168.1.70:51020 on port 1883.
+1743539521: New connection from 192.168.1.70:51021 on port 1883.
+1743539521: New connection from 192.168.1.70:51022 on port 1883.
+1743539521: New connection from 192.168.1.70:51023 on port 1883.
+1743539521: New connection from 192.168.1.70:51024 on port 1883.
+1743539521: New connection from 192.168.1.70:51025 on port 1883.
+1743539521: New connection from 192.168.1.70:51026 on port 1883.
+1743539521: New connection from 192.168.1.70:51027 on port 1883.
+1743539521: New connection from 192.168.1.70:51028 on port 1883.
+1743539521: New connection from 192.168.1.70:51029 on port 1883.
+1743539521: New connection from 192.168.1.70:51030 on port 1883.
+1743539521: New connection from 192.168.1.70:51031 on port 1883.
+1743539521: New connection from 192.168.1.70:51032 on port 1883.
+1743539521: New connection from 192.168.1.70:51033 on port 1883.
+1743539521: New client connected from 192.168.1.70:51025 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51024 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51023 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51022 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51021 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51020 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51019 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51018 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51017 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51016 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51015 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51014 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51013 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51033 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51032 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51031 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51030 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51029 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51028 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51027 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51026 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743539521: New connection from 192.168.1.70:51034 on port 1883.
+1743539521: New connection from 192.168.1.70:51035 on port 1883.
+1743539521: New connection from 192.168.1.70:51036 on port 1883.
+1743539521: New client connected from 192.168.1.70:51034 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51036 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743539521: New client connected from 192.168.1.70:51035 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743539526: New connection from 192.168.1.70:51037 on port 1883.
+1743539526: New connection from 192.168.1.70:51038 on port 1883.
+1743539526: New connection from 192.168.1.70:51039 on port 1883.
+1743539526: New client connected from 192.168.1.70:51039 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743539526: New client connected from 192.168.1.70:51038 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743539526: New client connected from 192.168.1.70:51037 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743539874: Client auto-B22B7EEE-CA13-3066-0618-A84C553143F3 closed its connection.
+1743539874: Client auto-17DBDEA4-B32C-BF83-EBF3-F19735A78DD8 closed its connection.
+1743539874: Client auto-CB2DE564-FF75-BC4B-7990-A1BE1DBDA356 closed its connection.
+1743539874: Client auto-9FEC0774-A60D-5C2C-C4A5-689F20E32597 closed its connection.
+1743539874: Client auto-B426D607-9BF5-A646-487C-8751F6EBA257 closed its connection.
+1743539874: Client auto-D236981D-2611-1E67-DB7B-B7FB45AE58EC closed its connection.
+1743539874: Client auto-6379F9E8-267A-B23B-2EB4-1EE3D1E43045 closed its connection.
+1743539874: Client auto-2CB3BA8B-47CD-16F1-3656-47CF685DBA15 closed its connection.
+1743539874: Client auto-CC7C9E1A-3708-7E45-F118-D8E491FEBC2D closed its connection.
+1743539874: Client auto-15B84F55-1FBC-339E-0673-237A84318427 closed its connection.
+1743539874: Client auto-8E4157B1-CE2D-7F0D-C210-8D2F1ECDBACF closed its connection.
+1743539874: Client auto-AF964D44-590E-4319-5AAB-69D598FD1E9A closed its connection.
+1743539970: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743540329: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743540329: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743540337: New connection from 192.168.1.70:51058 on port 1883.
+1743540337: New connection from 192.168.1.70:51059 on port 1883.
+1743540337: New connection from 192.168.1.70:51060 on port 1883.
+1743540337: New connection from 192.168.1.70:51061 on port 1883.
+1743540337: New connection from 192.168.1.70:51062 on port 1883.
+1743540337: New connection from 192.168.1.70:51063 on port 1883.
+1743540337: New connection from 192.168.1.70:51064 on port 1883.
+1743540337: New connection from 192.168.1.70:51065 on port 1883.
+1743540337: New connection from 192.168.1.70:51066 on port 1883.
+1743540337: New connection from 192.168.1.70:51067 on port 1883.
+1743540337: New connection from 192.168.1.70:51068 on port 1883.
+1743540337: New connection from 192.168.1.70:51069 on port 1883.
+1743540337: New client connected from 192.168.1.70:51062 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51061 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51060 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51059 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51058 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743540337: New connection from 192.168.1.70:51070 on port 1883.
+1743540337: New connection from 192.168.1.70:51071 on port 1883.
+1743540337: New connection from 192.168.1.70:51072 on port 1883.
+1743540337: New connection from 192.168.1.70:51073 on port 1883.
+1743540337: New connection from 192.168.1.70:51074 on port 1883.
+1743540337: New connection from 192.168.1.70:51075 on port 1883.
+1743540337: New connection from 192.168.1.70:51076 on port 1883.
+1743540337: New connection from 192.168.1.70:51077 on port 1883.
+1743540337: New connection from 192.168.1.70:51078 on port 1883.
+1743540337: New connection from 192.168.1.70:51079 on port 1883.
+1743540337: New connection from 192.168.1.70:51080 on port 1883.
+1743540337: New connection from 192.168.1.70:51081 on port 1883.
+1743540337: New client connected from 192.168.1.70:51069 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51068 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51067 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51066 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51065 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51064 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51063 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51073 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51074 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51077 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51081 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51076 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51075 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51072 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51071 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51070 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51080 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51079 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743540337: New client connected from 192.168.1.70:51078 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743540341: New connection from 192.168.1.70:51082 on port 1883.
+1743540341: New connection from 192.168.1.70:51083 on port 1883.
+1743540341: New connection from 192.168.1.70:51084 on port 1883.
+1743540341: New client connected from 192.168.1.70:51084 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743540341: New client connected from 192.168.1.70:51083 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743540341: New client connected from 192.168.1.70:51082 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743540463: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743540463: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743540473: New connection from 192.168.1.70:51090 on port 1883.
+1743540473: New connection from 192.168.1.70:51091 on port 1883.
+1743540473: New connection from 192.168.1.70:51092 on port 1883.
+1743540473: New connection from 192.168.1.70:51093 on port 1883.
+1743540473: New connection from 192.168.1.70:51094 on port 1883.
+1743540473: New connection from 192.168.1.70:51095 on port 1883.
+1743540473: New connection from 192.168.1.70:51096 on port 1883.
+1743540473: New connection from 192.168.1.70:51097 on port 1883.
+1743540473: New connection from 192.168.1.70:51098 on port 1883.
+1743540473: New connection from 192.168.1.70:51099 on port 1883.
+1743540473: New connection from 192.168.1.70:51100 on port 1883.
+1743540473: New connection from 192.168.1.70:51101 on port 1883.
+1743540473: New connection from 192.168.1.70:51102 on port 1883.
+1743540473: New connection from 192.168.1.70:51103 on port 1883.
+1743540473: New connection from 192.168.1.70:51104 on port 1883.
+1743540473: New connection from 192.168.1.70:51105 on port 1883.
+1743540473: New connection from 192.168.1.70:51106 on port 1883.
+1743540473: New connection from 192.168.1.70:51107 on port 1883.
+1743540473: New connection from 192.168.1.70:51108 on port 1883.
+1743540473: New connection from 192.168.1.70:51109 on port 1883.
+1743540473: New connection from 192.168.1.70:51110 on port 1883.
+1743540473: New client connected from 192.168.1.70:51092 as IoT_MQTT-TcMqttClient14 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51096 as IoT_MQTT-TcMqttClient19 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51099 as IoT_MQTT-TcMqttClient2 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51100 as IoT_MQTT-TcMqttClient10 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51091 as IoT_MQTT-TcMqttClient4 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51090 as IoT_MQTT-TcMqttClient9 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51094 as IoT_MQTT-TcMqttClient28 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51093 as IoT_MQTT-TcMqttClient20 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51098 as IoT_MQTT-TcMqttClient3 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51097 as IoT_MQTT-TcMqttClient13 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51095 as IoT_MQTT-TcMqttClient8 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51110 as IoT_MQTT-TcMqttClient24 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51109 as IoT_MQTT-TcMqttClient5 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51108 as IoT_MQTT-TcMqttClient15 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51107 as IoT_MQTT-TcMqttClient6 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51106 as IoT_MQTT-TcMqttClient23 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51105 as IoT_MQTT-TcMqttClient29 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51104 as IoT_MQTT-TcMqttClient22 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51103 as IoT_MQTT-TcMqttClient1 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51102 as IoT_MQTT-TcMqttClient7 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51101 as IoT_MQTT-TcMqttClient16 (p2, c1, k60, u'mqttbroker').
+1743540473: New connection from 192.168.1.70:51111 on port 1883.
+1743540473: New connection from 192.168.1.70:51112 on port 1883.
+1743540473: New connection from 192.168.1.70:51113 on port 1883.
+1743540473: New client connected from 192.168.1.70:51111 as IoT_MQTT-TcMqttClient32 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51113 as IoT_MQTT-TcMqttClient31 (p2, c1, k60, u'mqttbroker').
+1743540473: New client connected from 192.168.1.70:51112 as IoT_MQTT-TcMqttClient30 (p2, c1, k60, u'mqttbroker').
+1743540478: New connection from 192.168.1.70:51114 on port 1883.
+1743540478: New connection from 192.168.1.70:51115 on port 1883.
+1743540478: New connection from 192.168.1.70:51116 on port 1883.
+1743540478: New client connected from 192.168.1.70:51114 as IoT_MQTT-TcMqttClient34 (p2, c1, k60, u'mqttbroker').
+1743540478: New client connected from 192.168.1.70:51116 as IoT_MQTT-TcMqttClient33 (p2, c1, k60, u'mqttbroker').
+1743540478: New client connected from 192.168.1.70:51115 as IoT_MQTT-TcMqttClient35 (p2, c1, k60, u'mqttbroker').
+1743540864: Client mqtt-explorer-612c0fef disconnected.
+1743541118: Client IoT_MQTT-TcMqttClient35 disconnected.
+1743541118: Client IoT_MQTT-TcMqttClient34 disconnected.
+1743541118: Client IoT_MQTT-TcMqttClient33 disconnected.
+1743541118: Client IoT_MQTT-TcMqttClient32 disconnected.
+1743541118: Client IoT_MQTT-TcMqttClient31 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient30 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient29 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient28 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient22 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient23 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient24 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient20 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient19 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient13 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient14 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient15 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient16 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient7 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient8 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient9 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient10 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient1 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient2 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient3 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient4 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient5 disconnected.
+1743541119: Client IoT_MQTT-TcMqttClient6 disconnected.
+1743541210: mosquitto version 2.0.15 terminating
+1743541210: Saving in-memory database to /mosquitto/data//mosquitto.db.

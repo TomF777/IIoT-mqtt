@@ -4,8 +4,8 @@ services:
          
 # ===== Air valve monitoring  ====
 
- air-valve-monitor:
-       container_name: AirValve
+ air-valve-monitor-01:
+       container_name: AirValveMonitor01
        image: air_valve_img:0.0.1
        restart: always
        volumes:
@@ -25,15 +25,15 @@ services:
               INFLUX_FLUSH_INTERVAL: ${INFLUX_FLUSH_INTERVAL}
               INFLUX_JITTER_INTERVAL: ${INFLUX_JITTER_INTERVAL}
               INFLUX_PROCESS_DB: ${INFLUX_PROCESS_DB}
+
+              MODEL_WINDOW_SIZE: ${MODEL_WINDOW_SIZE}
+              ANOMALY_LIST_SIZE: ${ANOMALY_LIST_SIZE}
+              THRESH_STD_LIMIT: ${THRESH_STD_LIMIT}                                               
               LINE_NAME: ${LINE_NAME}
-              MACHINE_NAME: "Machine" #Warrning ! Must be hard coded
-              STATION_NAME: "Station" #Warrning ! Must be hard coded
-              DEVICE_NAME: "Device" #Warrning ! Must be hard coded
-              THRESH_STD_LIMIT: "THRESH_STD_LIMIT" #Warrning ! Must be hard coded
+              MACHINE_NAME: "device01"                                              # Must be hard coded                                                       
+              SENSOR_NAME: "AirValve1"                                              # Must be hard coded
        labels:
-              3M.conatainer.project: "project" #Warrning ! Must be hard coded
-              3M.container.workcenter: "Workcenter" #Warrning ! Must be hard coded
-              3M.container.machine: "machine" #Warrning ! Must be hard coded
+              IoT.container.project: "IoT_Industrial"
        networks:
               - IOT_Network
 
