@@ -283,11 +283,11 @@ def on_connect(mqttclient, userdata, flags, rc, properties):
         )
     elif rc == 3:
         LOGGER.warning(
-            "Connection to MQTT Broker refused – server unavailable. Result Code: 3"
+            "Connection to MQTT Broker refused - server unavailable. Result Code: 3"
         )
     elif rc == 4:
         LOGGER.warning(
-            "Connection to MQTT Broker refused – bad username or password. Result Code: 4"
+            "Connection to MQTT Broker refused - bad username or password. Result Code: 4"
         )
     elif rc == 5:
         LOGGER.warning(
@@ -357,13 +357,13 @@ def on_message(mqttclient, userdata, message):
 
             point = (
                 influxdb_client.Point(measurement)
-                .tag("lineName", str(mqtt_data["LineName"]))
-                .tag("machineName", str(mqtt_data["MachineName"]))
-                .tag("sensorName", sensor_name)
-                .field("vibAccel_RMS_x", round(vib_accel_tot_rms_x, 4))
-                .field("vibAccel_RMS_y", round(vib_accel_tot_rms_y, 4))
-                .field("vibAccel_RMS_z", round(vib_accel_tot_rms_z, 4))
-                .field("vibAccel_RMS_total", round(total_rms, 4))
+                .tag("line_name", str(mqtt_data["LineName"]))
+                .tag("machine_name", str(mqtt_data["MachineName"]))
+                .tag("sensor_name", sensor_name)
+                .field("vib_accel_rms_x", round(vib_accel_tot_rms_x, 4))
+                .field("vib_accel_rms_y", round(vib_accel_tot_rms_y, 4))
+                .field("vib_accel_rms_z", round(vib_accel_tot_rms_z, 4))
+                .field("vib_accel_rms_total", round(total_rms, 4))
                 .field("anomaly", int(vib_sensor.anomaly))
                 .field("avg_window", round(float(vib_sensor.model_avg), 4))
                 .field("std_window", round(float(vib_sensor.model_std_dev), 4))
