@@ -1,0 +1,7 @@
+influxdb:			 influxdb    IoT-influxdb		organization: priv	  
+
+grafana:            admin        admin
+
+eclipse-mosquitto:		mqttbroker	IoT-mqttbroker
+
+Portainer:      admin   IoT-portainer
