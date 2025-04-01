@@ -1,10 +1,10 @@
 """
-    Catch data over mqtt from mutliple sensors
+    Catch multiple states over mqtt 
     and store its value and timestamp into InfluxDB.
     The script subscribes to 
     MachineName/LineName/# topic level and
-    expects that sensor json data has 
-    SensorName and SensorValue fields.
+    expects that state json data has 
+    StateName and StateValue fields.
 """
 import os
 import json
@@ -175,22 +175,22 @@ def on_message(mqttclient, userdata, message):
     mqtt_data = json.loads(data)
 
     try:
-        sensor_name = mqtt_data["SensorName"]
-        sensor_value = mqtt_data["SensorValue"]
-        LOGGER.info(f"sensor name: {sensor_name}  sensor value: {sensor_value}")
+        state_name = mqtt_data["StateName"]
+        state_value = mqtt_data["StateValue"]
+        LOGGER.info(f"state name: {state_name}  sensor value: {state_value}")
     except Exception as e:
         LOGGER.error("No valid sensor data in json included")
 
     else:
         # Send data to InfluxDB
         try:
-            measurement = ("GenericSensor")
+            measurement = ("GenericState")
             point = (
                 influxdb_client.Point(measurement)
                 .tag("line_name", str(mqtt_data["LineName"]))
                 .tag("machine_name", str(mqtt_data["MachineName"]))
-                .tag("sensor_name", sensor_name)
-                .field("value", float(round(mqtt_data["SensorValue"], 4)))
+                .tag("state_name", state_name)
+                .field("value", int(mqtt_data["StateValue"]))
                 .time(time=datetime.fromtimestamp(int(mqtt_data["TimeStamp"]) / 1000, UTC),
                     write_precision='ms')
             )
@@ -202,7 +202,6 @@ def on_message(mqttclient, userdata, message):
             LOGGER.error(f"Send data to InfluxDB failed. Error code/reason: {e}")
 
 
-# Main function of script
 if __name__ == "__main__":
 
     # Configuring connection with InfluxDB database
