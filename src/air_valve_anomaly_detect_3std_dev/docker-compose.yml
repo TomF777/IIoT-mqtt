@@ -1,0 +1,41 @@
+#Example of docker compose deploy file
+version: "3.9"
+services:
+         
+# ===== Air valve monitoring  ====
+
+ air-valve-monitor:
+       container_name: AirValve
+       image: air_valve_img:0.0.1
+       restart: always
+       volumes:
+              - "/etc/timezone:/etc/timezone:ro"
+              - "/etc/localtime:/etc/localtime:ro"
+       environment:
+              MQTT_USERNAME: ${MQTT_USERNAME}
+              MQTT_PASSWORD: ${MQTT_PASSWORD}
+              MQTT_HOST: ${MQTT_HOST}
+              MQTT_PORT: ${MQTT_PORT}
+              MQTT_QOS: ${MQTT_QOS}
+              INFLUX_HOST: ${INFLUX_HOST}
+              INFLUX_PORT: ${INFLUX_PORT} 
+              INFLUX_ORG: ${INFLUX_ORG}
+              INFLUX_TOKEN: ${INFLUX_TOKEN}
+              INFLUX_BATCH_SIZE: ${INFLUX_BATCH_SIZE}
+              INFLUX_FLUSH_INTERVAL: ${INFLUX_FLUSH_INTERVAL}
+              INFLUX_JITTER_INTERVAL: ${INFLUX_JITTER_INTERVAL}
+              INFLUX_PROCESS_DB: ${INFLUX_PROCESS_DB}
+              LINE_NAME: ${LINE_NAME}
+              MACHINE_NAME: "Machine" #Warrning ! Must be hard coded
+              STATION_NAME: "Station" #Warrning ! Must be hard coded
+              DEVICE_NAME: "Device" #Warrning ! Must be hard coded
+              THRESH_STD_LIMIT: "THRESH_STD_LIMIT" #Warrning ! Must be hard coded
+       labels:
+              3M.conatainer.project: "project" #Warrning ! Must be hard coded
+              3M.container.workcenter: "Workcenter" #Warrning ! Must be hard coded
+              3M.container.machine: "machine" #Warrning ! Must be hard coded
+       networks:
+              - IOT_Network
+
+networks:
+    IOT_Network:
